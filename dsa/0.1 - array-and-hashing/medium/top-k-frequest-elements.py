@@ -22,7 +22,7 @@ Output: [7]
 # reverse a loop in python
 # learned how to solve this problem
 
-nums = [1,2,2,3,3,3]
+nums = [9,6,6,5,5,5]
 k = 2
 
 def topKFrequent(nums, k):
